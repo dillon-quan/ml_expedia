@@ -1,4 +1,5 @@
 # ML_Expedia
 
-The data for this project was found on Kaggle. The link to the data is down below.
+The data was retrieved from Kaggle.com and can be found in the link down below.
 
+https://www.kaggle.com/c/expedia-hotel-recommendations/data
